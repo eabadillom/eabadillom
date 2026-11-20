@@ -24,6 +24,7 @@ Donde:
 ### Flujo Visual de Ramas y Ambientes
 
 ```mermaid
+%%{init: { 'gitGraph': {'mainBranchName': 'master'}} }%%
 gitGraph
    commit id: "v1.1.0-RELEASE" tag: "v1.1.0"
    branch test
