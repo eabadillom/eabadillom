@@ -2,6 +2,12 @@
 
 El diseño de una API RESTful se basa en **recursos** (sustantivos) manipulados a través de **métodos HTTP** (verbos). Un buen diseño hace que la API sea predecible, intuitiva y fácil de mantener.
 
+> **💡 Sobre esta guía y mis proyectos anteriores:**  
+> Este documento nace de mi propia experiencia trabajando en los proyectos que ves en este perfil y de la necesidad de poner orden conforme fueron creciendo. Por eso, notarás que varios de los repositorios más antiguos no siguen estas reglas al pie de la letra, ya que fueron creados antes de definir este estándar.  
+>  
+> A partir de ahora, estas convenciones son mi base de trabajo para todos los desarrollos nuevos y las estoy adoptando poco a poco en el mantenimiento de mis sistemas existentes, mirando hacia adelante sin reescribir su historial.
+
+
 ---
 
 ## 1. Usa sustantivos en plural, nunca verbos
