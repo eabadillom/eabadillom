@@ -18,6 +18,7 @@
 Documentación técnica que aplico transversalmente en mis proyectos para asegurar la calidad y trazabilidad del código:
 
 * **[Guía de nomenclatura y diseño para endpoints REST](./docs/estandares-api-rest.md):** Convenciones para estandarizar el diseño de recursos HTTP, códigos de estado y ejemplos de implementación en Java.
+* **[Guía de Convenciones: Base de Datos y Desarrollo Java](./docs/estandres-bd-java.md):** Convenciones para estándares de nomenclatura para el diseño de bases de datos relacionales y el desarrollo de código en Java.
 * **[Guía de Estándares Git y Flujo de Trabajo](./docs/estandares-git.md):** Convenciones para nomenclatura de ramas (`<prefijo>/<app>-nn`), escritura de commits (*Conventional Commits*) y estrategias de integración (`rebase` vs. `merge`).
 * **[Guía de versionado semántico](./docs/versionado.md):** Convenciones para el versionado semántico y registro de cambios.
 
